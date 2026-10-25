@@ -1,0 +1,1 @@
+if(window.HTMLDialogElement&&!HTMLDialogElement.prototype.showModal){HTMLDialogElement.prototype.showModal=function(){this.setAttribute('open','');this.style.cssText='position:fixed;top:5vh;left:0;right:0;z-index:1000;max-height:90vh;overflow:auto;'};HTMLDialogElement.prototype.close=function(){this.removeAttribute('open');}}

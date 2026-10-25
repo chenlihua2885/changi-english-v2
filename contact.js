@@ -1,0 +1,1 @@
+(()=>{const button=document.getElementById('course-contact-name'),email=document.getElementById('course-contact-email');if(!button||!email)return;button.addEventListener('click',()=>{const open=button.getAttribute('aria-expanded')!=='true';button.setAttribute('aria-expanded',String(open));email.hidden=!open;});})();
