@@ -1,0 +1,2 @@
+Dictionary: ECDICT by skywind3000, https://github.com/skywind3000/ECDICT, MIT license. Selected entries and inflections; engineering context notes added locally. Missing pronunciation is not fabricated.
+JSZip: https://github.com/Stuk/jszip, MIT/GPLv3 dual license; supplied vendor license header retained.

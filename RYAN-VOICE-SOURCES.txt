@@ -1,0 +1,5 @@
+Local voice source: Piper en_US-ryan-medium, 22,050 Hz.
+Model card: https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_US/ryan/medium/MODEL_CARD
+Voice dataset source named by the model card: RyanSpeech, https://www.kaggle.com/datasets/roholazandie/ryanspeech
+The model card labels that dataset CC BY-NC-SA 4.0. The piper-voices repository header lists MIT. These are source notices; no broader license grant or commercial-use determination is made here.
+The course speech was generated locally. No online speech-generation credits were consumed.
