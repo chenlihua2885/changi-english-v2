@@ -19,3 +19,5 @@ dialog{max-height:90vh;overflow-y:auto}#offline-guide-dialog{width:min(940px,cal
 @media(max-width:900px){.academic-title{flex-direction:column}.academic-panel .three-col{grid-template-columns:1fr}.level-steps{grid-template-columns:repeat(5,minmax(0,1fr))}}
 
 body:not([data-voice-playing]) .stop-reading{display:none}.stop-reading{font-size:14px}.academic-panel .score small{margin-left:4px}
+
+#voice-load-status{font-size:14px;color:#54766f;align-self:center}#audio-download-status{display:block;margin:12px 10px;color:#69827c;font-size:12px;line-height:1.6}
