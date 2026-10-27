@@ -21,3 +21,6 @@ dialog{max-height:90vh;overflow-y:auto}#offline-guide-dialog{width:min(940px,cal
 body:not([data-voice-playing]):not([data-voice-loading]) .stop-reading{display:none}.stop-reading{font-size:14px}.academic-panel .score small{margin-left:4px}
 
 #voice-load-status{font-size:14px;color:#54766f;align-self:center}#audio-download-status{display:block;margin:12px 10px;color:#69827c;font-size:12px;line-height:1.6}
+
+/* V4: bilingual options keep the radio and word lookup separate. */
+.answer-bilingual{min-width:0}.answer-cn{font-size:15px;line-height:1.65;margin:6px 0 0}.bilingual-paragraph{margin-top:18px}.bilingual-cn{line-height:1.75}.email-reference>.bilingual-cn{margin-top:6px}.bilingual-paragraph .bilingual-cn{margin:6px 0 0}
